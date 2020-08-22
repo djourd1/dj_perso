@@ -19,25 +19,19 @@ type: docs
 
 We will concentrate on the installation on a **Windows** operating system. *If you need to install it on a Mac, you can find a video at <a href="https://youtu.be/GFImMj1lMRI" target="_blank">Install R and Rstudio on Mac</a> that will help you* 
 
-First, if your run Windows version such as Windows Vista/7/8/Server 2008, check the dedicated section of the R FAQ first: <a href="https://cran.r-project.org/bin/windows/base/rw-FAQ.html#Does-R-run-under-Windows-Vista_003f" target="_blank">Does R run under my version of Windows?</a> . 
+For Windows operating system: click on the following link: 
 
-Once you have done so, click on the following link:
-<a href="https://cran.r-project.org/bin/windows/base/"target="_blank">Install R for Windows</a>.  
+<a href="https://cran.r-project.org/bin/windows/base/" target="_blank">Install R for Windows</a>   
 
-You will be proposed to install the latest version of R that corresponds to your operating system (first link on top of the page Figure <a href="#fig:Rdown">1</a> ). 
+You will be proposed to install the latest version of R that corresponds to your operating system (first link on top of the page Figure <a href="#fig:Rdown"><strong>??</strong></a> ). 
 
 
 We will embed this
-
-![Dscreen](cran-download.png "Wizard 4")
-
-<div class="figure">
-<img src="cran-download.png" alt="Download Screen"  />
-<p class="caption">Figure 1: Download Screen</p>
-</div>
+{{< figure library="true" src="cran-download.png" title="The download screen" numbered="true">}}
 
 
-When you click on that link,  you get a warning message to save the file. Click on the save button. Please note that this might take some time to download. Once the download is complete, open the file and run the programme. (We supposed that you know where and how to open the file that has just been saved. Since the way to operate is specific to your system, we do not give any special instructions here).
+
+When your click on that link,  you get a warning message to save the file. Click on the save button. Please note that this might take some time to download. Once the download is complete, open the file and run the programme. (We supposed that you know where and how to open the file that has just been saved. Since the way to operate is specific to your system, we do not give any special instructions here).
 
 A setup wizard should appear. Follow the different steps: set-up your language, the directories where it will installed, etc. As a beginner, you are well advised to follow the default options proposed by the wizard! Until you reach the Finish step. 
 
