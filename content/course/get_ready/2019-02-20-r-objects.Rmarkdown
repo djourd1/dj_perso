@@ -8,25 +8,25 @@ type: book
 weight: 3
 ---
 
-# Learning objectives
+## Learning objectives
 
 In this section, you will learn to store *objects* (think of variables, functions, datasets) into the *R workspace* (think of a place where R stores all its objects) and use the stored objects to solve a question about repayments of loans.  
 
 
 
-# R Objects using an example
+## R Objects using an example
 
 To do this we will use the R programme we have just installed. Launch the R program (for example, by clicking at the R icon present in your desktop).
-
+ 
 Let's start with objects and functions using a very simple example. 
 
-Suppose you want to know how much you will have to pay to the bank if you borrow an amount $L$ and you intend to reimburse a fixed amount over a period of $N$ months, and the bank intend to charge you an annual interest rate $r$. 
+Suppose you want to know how much you will have to pay to the bank if you borrow an amount \\(L\\) and you intend to reimburse a fixed amount over a period of \\(N\\) months, and the bank intend to charge you an annual interest rate \\(r\\). 
 
 
 There are different ways to consider this problem, but today we will rely on the textbook formula to calculate this
 $$ m = L . \frac{(\frac{r}{1200})(1 +\frac{r}{1200})^N}{(1+ \frac{r}{1200})^N -1 } $$
 
-One advantage of programming language is that we can define variables and keep such expressions general. So, if we are asked to answer this question when borrowing 2000\$ for 24 months at an interest of 6\% per year, we can define $L$ to be $10000$, $N$ to be $24$, and $r$ to be $6$.
+One advantage of programming language is that we can define variables and keep such expressions general. So, if we are asked to answer this question when borrowing 2000\$ for 24 months at an interest of 6\% per year, we can define \\(L\\) to be \\(10000\\), \\(N\\) to be \\(24\\), and \\(r\\) to be \\(6\\).
 
 In R, we do that using the assignment symbol `<-`, which is less than followed by a minus. Note that it looks like a little arrow. `L <- 10000` means that __you're assigning the number 10000 to the variable named L__.
 
@@ -47,12 +47,12 @@ Had you made a mistake, you would have received an error message. For example, i
  u < 24
 ```
 
-To see the value stored in $L$, variable we simply type a in the console.
+To see the value stored in \\(L\\), variable we simply type a in the console.
 ```{r}
 L
 ```
 
-And when we hit the Return key, R shows us the value stored in $L$, which is $10000$.
+And when we hit the Return key, R shows us the value stored in \\(L\\), which is \\(10000\\).
 
 As we define objects in the console, we are actually changing what is called the __workspace__. You can see all the variables saved in your workspace by typing `ls()`.
 
@@ -89,34 +89,31 @@ As a small trick, if you want to store the value to the workspace and at the sam
 
 In any case, if you did things correctly you should get `r m`  to be paid per month, and paid an extra `r extra`  to your banker to get access to that money immediately !
 
-The Figure \@ref(fig:Rcons) shows how your console should look like at the end of this session if you followed all the instructions.
-
-```{r Rcons, echo=FALSE, fig.cap = "Console at the end of the session"}
-if (knitr::is_html_output()) {
-#    knitr::include_graphics("/img/r-objects/FirstRConsole.jpg")
-} else {
-#    knitr::include_graphics('D:/Mes Donnees/GitHub/training/static/img/r-objects/FirstRConsole.jpg')
-}
-```
+The Figure 1 shows how your console should look like at the end of this session if you followed all the instructions.
 
 
-# Additional resources
+{{< figure library="true" src="FirstRConsole.jpg" title="How you console should look like" numbered="true">}}
+
+
+
+## Additional resources
 
 There are many resources available over the internet. Here we suggest two specific pages of the Tutorialpoints website that are giving more details about the names of variables, and the predefined operators R. 
 
 * <a href="https://www.tutorialspoint.com/r/r_variables.htm" target="_blank">More on R variable names</a>
 * <a href="https://www.tutorialspoint.com/r/r_operators.htm" target="_blank">More on R operators</a>
 
-# Exercises 
-## Ex. 1: Play with variables
-  + Create two new variables $i$ and $j$ and assign them the values 1 and 2 respectively
-  + Create a new variable "sinij"  that stores the value of sinus of the sum of i and j (tips: browse the internet to figure out how the sinus function is defined in base R)
-  + Display the variable sinij on your console
+## Exercises 
 
-## Ex. 2:  Add the first 100 integers. 
+### Ex. 1: Play with variables
+  + Create two new variables \\(i\\) and \\(j\\) and assign them the values 1 and 2 respectively
+  + Create a new variable `sinij`  that stores the value of sinus of the sum of i and j (tips: browse the internet to figure out how the sinus function is defined in base R)
+  + Display the variable `sinij` on your console
 
-We know that the sum of the first $n$ integers is given by the formula $\frac{n (n+1)}{2}$
-  + Create a variable $n$ and assign the value 10
-  + Calculate the sum of the 10 first integer and store it in a variable s10
-  + Calculate the sum of the 100 first integer
-  + You can see that this exercise can be repetitive and it will be useful to be able to develop a specific function that would avoid repetitions. 
+### Ex. 2:  Add the first 100 integers. 
+
+We know that the sum of the first \\(n\\) integers is given by the formula \\(\frac{n (n+1)}{2}\\)
+  + Create a variable \\(n\\) and assign the value 10
+  + Calculate the sum of the 10 first integers and store it in a variable `s10`
+  + Calculate the sum of the 100 first integers
+  + You can see that this exercise can be repetitive and it will be useful to develop a specific function that would avoid repetitions. 
