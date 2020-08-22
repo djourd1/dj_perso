@@ -1,0 +1,78 @@
+---
+title: "Install R on Windows"
+author: "Damien Jourdain"
+date: '2019-02-20'
+output:
+  html_document:
+    keep_md: true
+    df_print: paged
+menu:
+  basic_r:
+    name: Install on Windows
+    weight: 2
+slug: install-r-on-windows
+tags: []
+categories: R
+type: docs
+---
+
+
+We will concentrate on the installation on a **Windows** operating system. *If you need to install it on a Mac, you can find a video at <a href="https://youtu.be/GFImMj1lMRI" target="_blank">Install R and Rstudio on Mac</a> that will help you* 
+
+First, if your run Windows version such as Windows Vista/7/8/Server 2008, check the dedicated section of the R FAQ first: <a href="https://cran.r-project.org/bin/windows/base/rw-FAQ.html#Does-R-run-under-Windows-Vista_003f" target="_blank">Does R run under my version of Windows?</a> . 
+
+Once you have done so, click on the following link:
+<a href="https://cran.r-project.org/bin/windows/base/"target="_blank">Install R for Windows</a>.  
+
+You will be proposed to install the latest version of R that corresponds to your operating system (first link on top of the page Figure \@ref(fig:Rdown) ). 
+
+
+We will embed this
+
+![Dscreen](cran-download.png "Wizard 4")
+
+```{r Rdown, echo=FALSE, fig.cap = "Download Screen",fig.show='asis'}
+knitr::include_graphics("cran-download.png" )
+```
+
+
+When you click on that link,  you get a warning message to save the file. Click on the save button. Please note that this might take some time to download. Once the download is complete, open the file and run the programme. (We supposed that you know where and how to open the file that has just been saved. Since the way to operate is specific to your system, we do not give any special instructions here).
+
+A setup wizard should appear. Follow the different steps: set-up your language, the directories where it will installed, etc. As a beginner, you are well advised to follow the default options proposed by the wizard! Until you reach the Finish step. 
+
+```{r RWizard, echo=FALSE}
+#knitr::include_graphics("/basic_r/2019-02-20-install-r-on-windows_files/install_r02.png")
+```
+```{r RWizard2, echo=FALSE}
+#knitr::include_graphics("/basic_r/2019-02-20-install-r-on-windows_files/install_r03.png")
+```
+
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r04.png "Wizard 4")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r05.png "Wizard 5")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r06.png "Wizard 6")
+
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r07.png "Wizard 7")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r08.png "Wizard 8")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r09.png "Wizard 9")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r10.png "Wizard 10")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r11.png "Wizard 11")
+![](/basic_r/2019-02-20-install-r-on-windows_files/install_r12.png "Wizard 12")
+
+
+To check that everything went OK, you can open the R program. A R shortcut should now be present on your computer desktop screen. 
+
+Click on this new icon and you should see appearing the R console as in the Figure  \@ref(fig:RConsole) :
+
+```{r RConsole, echo=FALSE, fig.cap = "R Console."}
+#knitr::include_graphics("/basic_r/2019-02-20-install-r-on-windows_files/RConsole.jpg" )
+```
+
+
+You can type your first R command at the cursor. Type 1+1.Then type the `Enter` key. Normally the console should create a new line that says `[1] 2`
+
+![](/basic_r/2019-02-20-install-r-on-windows_files/RConsole2.jpg "Your first command")
+
+**Congratulations R is up and running on your computer !**
+
+
+
