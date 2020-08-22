@@ -15,7 +15,7 @@ This section give the basics to get started with R and R studio.
 
 At the end of this section, you will have installed the necessary softwares, and should be able to run interactive sessions in R or R Studio, and save your work. You will also be able to load some specialized codes written by other researchers and bundled into specialized packages.
 
-* [Why using R?](/basic_r/why-r/)
+* [Why using R?](/getready/why-r/)
 * [Install R](/getready/install-r-on-windows/)
 * [Create your first R Objects](/basic_r/r-objects/)
 * [Use some R built-in functions](/basic_r/r-functions/)
