@@ -13,15 +13,6 @@
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Get Ready"
-  url = "/getready"
-  weight = 30
-
-[[main]]
-  name = "Course"
-  url = "/course"
-  weight = 35
 
 [[main]]
   name = "Publications"
