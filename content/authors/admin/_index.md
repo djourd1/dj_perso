@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damien Jourdain
 
 # Username (this should match the folder name)
 authors:
@@ -8,34 +8,36 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
-
+ 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Agricultural and Natural Resources Economist
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+organizations: [ {name="G-EAU - CIRAD", url="https://www.g-eau.fr/index.php/en/"},
+{name="CEEPA", url="https://www.up.ac.za/ceepa-the-centre-for-environmental-economics-and-policy-in-african"},
+{name="GovInn", url="https://governanceinnovation.org/"}]
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include technical change, use of natural resources by farming households, environmental valuation
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Valuation of non-market goods
+- Farm modeling
+- Choice modeling
+- Q-methodology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Agricultural Economics
+    institution: Montpellier University 
+    year: 2004
+  - course: DEA (eq. MS) in Agricultural Economics
+    institution: ENSA Montpellier
+    year: 1995
+  - course: Ingenieur Agronome
+    institution: ENSA Rennes
+    year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +47,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: ai
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.fr/citations?hl=fr&pli=1&user=IK-ePZYAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Damien Jourdain is working with the UMR [Water Management, Actors, Territories (G-EAU)](https://www.g-eau.fr/index.php/en/) within [Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)](https://www.cirad.fr/en/home-page). He is currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research program focuses on:
+
+1. The economic value of hydro-ecosystems,
+2. The impacts of water allocation policies (efficiency, equity) and the potential implications for the food and energy sectors, and
+3. The economic and institutional instruments conducive to a reduction in water consumption by the different sectors, especially agriculture
+
