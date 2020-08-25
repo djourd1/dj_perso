@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -46,4 +46,20 @@ date_format = "Jan 2006"
   * Student Supervision (PhD, MSc)
   * Research Projects
   """
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "International Rice Research Institute - CIRAD"
+  company_url = "https://www.ait.ac.th/"
+  location = "Hanoi, Vietnam"
+  date_start = "2006-08-01"
+  date_end = "2010-07-30"
+  description = """Secunded to IRRI for the co-management of two research projects funded by CPWF and IFAD
+  
+  Responsibilities included:
+  
+  * Student Supervision (PhD, MSc)
+  * Research Projects
+  """
+
 +++

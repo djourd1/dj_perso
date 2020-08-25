@@ -53,6 +53,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?hl=fr&pli=1&user=IK-ePZYAAAAJ
+  
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1426381/damien-jourdain/
+  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8707-5221
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
