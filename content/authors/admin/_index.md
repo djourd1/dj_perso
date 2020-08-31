@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Damien Jourdain is working with the UMR [Water Management, Actors, Territories (G-EAU)](https://www.g-eau.fr/index.php/en/) within [Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)](https://www.cirad.fr/en/home-page). He is currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
+Dr. Damien Jourdain is working with the UMR [Water Management, Actors, Territories (G-EAU)](https://www.g-eau.fr/index.php/en/) within [Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)](https://www.cirad.fr/en/home-page). He is currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP). He is also the animator for CIRAD within the UP-CIRAD joint  [Center for the Study of Governance Innovation (GovInn)](http://governanceinnovation.org/)
 
 His research program focuses on:
 
