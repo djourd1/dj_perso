@@ -49,17 +49,31 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Researcher"
-  company = "International Rice Research Institute - CIRAD"
-  company_url = "https://www.ait.ac.th/"
+  company = "International Rice Research Institute - CIRAD / UMR G-EAU"
+  company_url = "https://www.irri.org/"
   location = "Hanoi, Vietnam"
   date_start = "2006-08-01"
   date_end = "2010-07-30"
-  description = """Secunded to IRRI for the co-management of two research projects funded by CPWF and IFAD
+  description = """Secunded to IRRI for the co-management of two research projects with ThaiNguyen University of Business Administration (TUEBA) 
   
   Responsibilities included:
   
   * Student Supervision (PhD, MSc)
-  * Research Projects
+  * Research Projects funded by Challenge Programme of Water and Food, and IFAD
   """
 
+[[experience]] 
+  title = "Researcher"
+  company = "CIRAD / UMR G-EAU"
+  company_url = "http://www.g-eau.fr/index.php/en/"
+  location = "Montpellier, France"
+  date_start = "2002-09-01"
+  date_end = "2006-07-30"
+  description = """ Agricultural and Natural Resources Economist at CIRAD
+  
+  Responsibilities included:
+  
+  * PhD writing
+  * Participation to Research Projects 
+  """
 +++
