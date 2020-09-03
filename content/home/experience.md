@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -75,5 +75,21 @@ date_format = "Jan 2006"
   
   * PhD writing
   * Participation to Research Projects 
+  """
+
+[[experience]] 
+  title = "Researcher"
+  company = "Centro Internacional de Mejoramiento de Maiz y Trigo (CIMMYT) / CIRAD"
+  company_url = ""
+  location = "El Batan, Mexico"
+  date_start = "1997-09-01"
+  date_end = "2002-08-30"
+  description = """ Agricultural and Natural Resources Economist
+  
+  Responsibilities included:
+  
+  * Participation to Research Projects
+  * Analysis of potential of conservation agriculture in irrigated areas
+  * Supervision of MS Students
   """
 +++
