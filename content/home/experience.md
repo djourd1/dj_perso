@@ -42,7 +42,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching
+  * Teaching Natural Resources Economics module (45h/y - Natural Resources Management Phd and MS students)
+  * Teaching Water Resource Economics (25h/y) - Water Engineering and Management PhD and MSc students)
   * Student Supervision (PhD, MSc)
   * Research Projects
   """
@@ -80,7 +81,7 @@ date_format = "Jan 2006"
 [[experience]] 
   title = "Researcher"
   company = "Centro Internacional de Mejoramiento de Maiz y Trigo (CIMMYT) / CIRAD"
-  company_url = ""
+  company_url = "https://www.cimmyt.org"
   location = "El Batan, Mexico"
   date_start = "1997-09-01"
   date_end = "2002-08-30"
