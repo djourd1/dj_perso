@@ -34,11 +34,15 @@ subtitle = "Project Participation/animation"
      tag = "Q-methodology"
 
    [[content.filter_button]]
-     name = "Farm modelling"
+     name = "Exp. Economics"
+     tag = "Experimental Economics"
+
+   [[content.filter_button]]
+     name = "Farm modelling" 
      tag = "Farm modelling"
 
    [[content.filter_button]]
-     name = "Adoption studies"
+     name = "Adoption"
      tag = "Adoption studies"
 
 [design]
