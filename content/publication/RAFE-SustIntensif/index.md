@@ -5,11 +5,11 @@ authors:
 - Juliette Lairez
 - Bruno Striffler
 - François Affholder
-date: "2020-01-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 doi: "10.1007/s41130-020-00100-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,11 @@ we discuss the possible drivers and barriers to the adoption of these more susta
 summary: "We used discrete choice experiments to explore the potential adoption or alternative agricultural systems. We analyse the heterogeneity of farmers’ preferences and willingness to pay for different cropping system attributes using a mixed logit model, and we discuss the possible drivers and barriers to the adoption of these more sustainable options."
 
 tags:
-- Source Themes
+- Ecological Intensification
+- Choice Experiment
+
 featured: true
+
 
 # links:
 # - name: ""
@@ -55,7 +58,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- ecolIntensLaos
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
