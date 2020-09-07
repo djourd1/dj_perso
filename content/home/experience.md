@@ -93,4 +93,36 @@ date_format = "Jan 2006"
   * Analysis of potential of conservation agriculture in irrigated areas
   * Supervision of MS Students
   """
+
+[[experience]] 
+  title = "Researcher"
+  company = "CIRAD"
+  company_url = "https://www.cirad.fr"
+  location = "Montpellier, France"
+  date_start = "1995-09-01"
+  date_end = "1997-08-30"
+  description = """ Agricultural and Natural Resources Economist
+  
+  Researches included:
+  
+  * Farm Modeling components of Research projects 
+  * Influence of risk on adoption of farm technologies
+  """
+
+[[experience]] 
+  title = "Researcher"
+  company = "United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP) / CIRAD"
+  company_url = "https://www.cirad.fr"
+  location = "Bangkok, Thailand"
+  date_start = "1990-09-01"
+  date_end = "1995-08-30"
+  description = """ Agricultural and Natural Resources Economist
+  
+  Responsabilities included:
+  
+  * Data collection about pesticides and fertilizers in the Asia-Pacific region 
+  * Database construction and maintenance
+  * Animation of a network of Governmental Agencies in charge of the registration and control of pesticides in the Asia-Pacific Region
+  """
+
 +++
