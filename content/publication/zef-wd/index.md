@@ -35,7 +35,13 @@ We developed an application of the Q methodology to identify and analyze the div
 # Summary. An optional shortened abstract.
 summary: "We developed an application of the Q methodology to identify and analyze the diverse perceptions about water related ecosystem services in the Olifants catchment across a panel of stakeholders (private, government, civil society, farmers, ecologists, etc.)."
 
-tags: []
+tags: 
+- Water
+- Water Quality
+- Q-methodology
+- South Africa
+- Perceptions
+
 categories: []
 featured: false
 

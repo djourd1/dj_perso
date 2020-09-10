@@ -36,7 +36,11 @@ Combining the perspectives of scientists and farmers led to the following set of
 summary: " "
 
 tags:
-- Source Themes
+- Ecological Intensification
+- Laos
+- Best-Worst Scaling
+- Farmer's preferences
+
 featured: false
 
 # links:

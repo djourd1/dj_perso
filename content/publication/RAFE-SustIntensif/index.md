@@ -30,6 +30,9 @@ summary: "We used discrete choice experiments to explore the potential adoption 
 tags:
 - Ecological Intensification
 - Choice Experiment
+- Laos
+- Technology Adoption
+- Farmer's preferences
 
 featured: true
 

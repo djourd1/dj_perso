@@ -28,7 +28,11 @@ The purpose of this paper is to explore key attributes of organic rice that cons
 summary: "We used discrete choice experiments to explore the potential adoption or alternative agricultural systems. We analyse the heterogeneity of farmers’ preferences and willingness to pay for different cropping system attributes using a mixed logit model, and we discuss the possible drivers and barriers to the adoption of these more sustainable options."
 
 tags:
-- Source Themes
+- Organic Rice
+- Consumer Preference
+- Best-Worst Scaling
+- Thailand
+
 featured: false
 
 # links:
