@@ -42,3 +42,22 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+
+This study was contracted by the [Center for Development Research (ZEF)](https://www.zef.de/zefhome.html), an institute of the University of Bonn, Germany, as part of a larger [Integrated Water Governance Support System (iWaGSS) project](http://www.iwagss.com/wordpress/en/). 
+
+The main objective of the study was to document the consensus and distinct views about the water quality and the ecosystem services provided by water‑related ecosystems in the Olifants basin in South Africa.
+
+In particular, we will investigate the stakeholders' views about:
+
+1. the main issues related with raw water quality in the Olifants
+2. the main solutions to improve raw water quality in the Olifants
+3. the relative importance of water‑related ecosystem services they derived from the
+Olifants
+4. the state of the ecosystem services provision and how they relate the state of water ecosystem-services
+with the quality of raw waters in the Olifants
+5. the possible policy instruments to restore ecosystem service provision in the
+Olifants
+
+We conducted semi-qualitative surveys using Q-methodology.
