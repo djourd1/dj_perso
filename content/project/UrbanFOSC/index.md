@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Urban Food Systems Resilience Under Climate Change Conditions - Algeria - Kenya - South Africa"
-summary: " "
+summary: "Using contingent behavior to anticipate farmers adaptation to climate change "
 authors: [admin]
 tags: 
 - Adaptation
