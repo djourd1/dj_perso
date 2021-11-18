@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Habilitation (HDR) in Economics
+    institution: Montpellier University 
+    year: 2021
   - course: PhD in Agricultural Economics
     institution: Montpellier University 
     year: 2004
