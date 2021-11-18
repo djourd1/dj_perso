@@ -14,15 +14,6 @@
   weight = 20
 
 
-
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-  name = "Publication List"
-  url = "files/cv/Liste_Publications_eng.pdf"
-  weight = 30
-
 [[main]]
   name = "Research"
   url = "#projects"
@@ -43,8 +34,16 @@
   url = "#posts"
   weight = 55
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+  name = "CV"
+  url = "files/cv/CV Damien Jourdain 2021_11_01_english.pdf"
+  weight = 30
+
 
 [[main]]
   name = "Contact me"
   url = "#contact"
   weight = 60
+
