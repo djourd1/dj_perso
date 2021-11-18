@@ -5,6 +5,7 @@ title: "Urban Food Systems Resilience Under Climate Change Conditions - Algeria 
 summary: "Using contingent behavior to anticipate farmers adaptation to climate change "
 authors: [admin]
 tags: 
+- Choice Experiment
 - Adaptation
 - Climate Change
 - Contingent Behavior
