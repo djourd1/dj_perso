@@ -1,11 +1,11 @@
 ---
-title: "Social Capital & Agricultural Technology Development"
+title: "Social Capital & Agricultural Technology Development: SoCapZ"
 summary: "Using Experimental Economics, we intend to measure the impact of a development project on the
 social capital of communities targeted by technology development project"
 authors: 
 - admin
-- Marc Willinger
 - Stefano Farolfi
+- Marc Willinger
 
 tags: 
 - Experimental Economics

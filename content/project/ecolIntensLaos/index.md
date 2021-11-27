@@ -14,6 +14,7 @@ tags:
 - Farm Modelling
 - Choice Experiment
 - Best-Worst Scaling
+- Lao PDR
 
 categories: []
 date: 2020-08-02T04:59:34+02:00
@@ -50,4 +51,6 @@ url_video: ""
 slides: ""
 ---
 
- 
+Sustainable intensification (SI) of farming systems aims to increase food production from existing farmland in ways that have a lower environmental impact and maintain the food production capacity over time. There are concerns about the sustainability of the maize mono-cropping systems that are in use in Laos today. Therefore, to explore the potential adoption of alternative agricultural systems, I teamed up with Dr. Juliette Lairez (UPR AIDA, CIRAD) to construct and run a survey where we would explore farmers ranking of objectives when making decisions (using a Best-Worst Scaling approach, and explore farmers' preferences for technological attributes using a discrete choice experiment (DCE).
+
+
