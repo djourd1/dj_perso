@@ -42,4 +42,4 @@ url_video: ""
 slides: ""
 ---
 
-Due to 2020 pandemic, activities will start in 2021.
+Due to pandemic, activities will start in 2022.

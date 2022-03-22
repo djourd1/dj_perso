@@ -1,11 +1,13 @@
 ---
-title: "Typoclim - South Africa"
-summary: "Identifying South African farmers potential reactions to policy instruments designed to foster their adaptation to climate change"
+title: "RAIZ - Zimbabwe"
+summary: "Using choice experiment and DCE to tailor technologies to farmer's needs"
 authors: [admin]
+
 tags: 
-- Climate Change Adaptation
 - Choice Experiment
-- Q-methodology
+- RCT
+- Zimbabwe
+
 
 categories: []
 date: 2020-09-02T09:30:34+02:00
@@ -42,4 +44,9 @@ url_video: ""
 slides: ""
 ---
 
-Due to 2020 pandemic, activities will start in 2021.
+In Zimbabwe, the cropping systems of smallholder farmers are mainly maize-based and subject to erratic weather conditions. Ninety percent of farmers control less than four ha and most suffer particularly from low productivity. Yet, in several agro-ecological zones of the country, the biophysical environment is favourable to an agriculture capable of feeding farmers and producing surpluses. The challenge of agro-ecological intensification (AEI) is to increase food production from existing agricultural land in a way that has a low environmental impact so as not to compromise the ability of future generations to meet their needs. 
+
+Liquidity constraints and the risk of investing time and money with no return on investment are generally identified as the most significant barriers to intensification. Access to credit and the possibility of securing investments thus appear to be key instruments for promoting technological change. However, other constraints (labour, equipment, etc.) may play an essential role and require other types of intervention. Moreover, defining the practical modalities of these instruments requires adjustment to the real conditions of producers. In particular, work in behavioural economics has shown that certain cognitive or decisional biases can lead farmers to radically different behaviours under the effect of small changes (nudges) in the instruments offered to farmers.
+
+Therefore, we will study farmers' preferences in terms of technologies and instruments to accompany them in order to assess the most suitable technologies and accompanying measures that can facilitate adoption of sustainable technologies. 
+
