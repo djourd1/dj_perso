@@ -1,23 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Farmers Preferences and Ecological Intensification - Lao PDR"
-summary: "Used Best-Worst Scaling and Choice Experiments to identify groups of preferences for technological attributes of new farm technologies "
+title: "RAIZ - Zimbabwe"
+summary: " "
 
 authors: 
 - admin
-- Juliette Lairez
-- François Affholder
 
 tags: 
 - Ecological Intensification
-- Farm Modelling
 - Choice Experiment
-- Best-Worst Scaling
-- Lao PDR
+- Zimbabwe
 
 categories: []
-date: 2020-08-02T04:59:34+02:00
+date: 2022-03-22T04:59:34+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -51,6 +47,10 @@ url_video: ""
 slides: ""
 ---
 
-Sustainable intensification (SI) of farming systems aims to increase food production from existing farmland in ways that have a lower environmental impact and maintain the food production capacity over time. There are concerns about the sustainability of the maize mono-cropping systems that are in use in Laos today. Therefore, to explore the potential adoption of alternative agricultural systems, I teamed up with Dr. Juliette Lairez (UPR AIDA, CIRAD) to construct and run a survey where we would explore farmers ranking of objectives when making decisions (using a Best-Worst Scaling approach, and explore farmers' preferences for technological attributes using a discrete choice experiment (DCE).
+In Zimbabwe, the cropping systems of smallholder farmers are mainly maize-based and subject to erratic weather conditions. Ninety percent of farmers control less than four ha and most suffer particularly from low productivity. Yet, in several agro-ecological zones of the country, the biophysical environment is favourable to an agriculture capable of feeding farmers and producing surpluses. The challenge of agro-ecological intensification (AEI) is to increase food production from existing agricultural land in a way that has a low environmental impact so as not to compromise the ability of future generations to meet their needs. 
+
+Liquidity constraints and the risk of investing time and money with no return on investment are generally identified as the most significant barriers to intensification. Access to credit and the possibility of securing investments thus appear to be key instruments for promoting technological change. However, other constraints (labour, equipment, etc.) may play an essential role and require other types of intervention. Moreover, defining the practical modalities of these instruments requires adjustment to the real conditions of producers. In particular, work in behavioural economics has shown that certain cognitive or decisional biases can lead farmers to radically different behaviours under the effect of small changes (nudges) in the instruments offered to farmers.
+
+Therefore, we will study farmers' preferences in terms of technologies and instruments to accompany them in order to assess the most suitable technologies and accompanying measures that can facilitate adoption of sustainable technologies. 
 
 
