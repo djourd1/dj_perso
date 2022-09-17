@@ -1,5 +1,5 @@
 ---
-title: "Context matters: Agronomic field monitoring and participatory research to identify criteria of farming system sustainability in South-East Asia"
+title: "A choice experiment approach to evaluate maize farmers’ decision-making processes in Lao PDR"
 authors:
 - admin
 - Juliette Lairez
