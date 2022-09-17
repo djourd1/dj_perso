@@ -45,8 +45,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/BJ9IgksrNjk"
-url_video: "https://youtu.be/tqCYKjWGTD0"
+url_video: ""
 
  
 # Markdown Slides (optional).
@@ -67,3 +66,7 @@ projects: []
 math: true
 ---
 
+Here is a series of videos that introduce the contingent valuation method. 
+
+[Introduction](https://youtu.be/BJ9IgksrNjk)
+[Surveys: Warm up and reminders sections](https://youtu.be/tqCYKjWGTD0)
