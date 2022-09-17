@@ -59,7 +59,7 @@ social:
   
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/1426381/damien-jourdain/
+  link: https://www.webofscience.com/wos/author/record/1187860
   
 - icon: orcid
   icon_pack: ai
