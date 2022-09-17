@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Choice Modelling"
-publication_short: ""
+publication_short: "JCM"
 
 abstract: "Sustainable intensification seeks to increase outputs from existing farmland in ways that have a
 lower environmental impact. An extensive literature has examined the determinants of farmers’
@@ -35,7 +35,7 @@ and developers to better understand how their proposed systems are likely to be 
 different types of farmers. "
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: "We used discrete choice experiments to explore the potential adoption of alternative agricultural systems. We analyse the heterogeneity of farmers’ preferences and heuristics of choices using a latent class model, where class can include different heuristics such as attribute non attendance, and elimination by aspect."
 
 tags:
 - Ecological Intensification

@@ -34,7 +34,7 @@ tags:
 - Technology Adoption
 - Farmer's preferences
 
-featured: true
+featured: false
 
 
 # links:
