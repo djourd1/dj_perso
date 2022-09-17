@@ -1,0 +1,69 @@
+---
+title: Contingent Valuation Method (2022 videos)
+event: "Contingent valuation models"
+event_url: 
+
+location: University of Pretoria
+address:
+  street: Hatfield Campus
+  city: Pretoria
+  region: Gauteng
+  postcode: '0028'
+  country: South Africa
+
+summary: A MSc level course introducing the Contingent Valuation Method
+abstract: ""
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2022-09-01T08:00:00Z"
+date_end: "2022-09-02T12:00:00Z"
+all_day: true
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2022-09-17T00:00:00Z"
+
+authors: 
+- admin
+
+tags: 
+- Contingent Valuation
+- R
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: ''
+  focal_point: Right
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: "https://youtu.be/BJ9IgksrNjk"
+url_video: "https://youtu.be/tqCYKjWGTD0"
+
+ 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+# Enable math on this page?
+math: true
+---
+
