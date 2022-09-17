@@ -1,23 +1,13 @@
 ---
 title: Contingent Valuation Method (2022 videos)
-event: "Contingent valuation models"
-event_url: 
-
-location: University of Pretoria
-address:
-  street: Hatfield Campus
-  city: Pretoria
-  region: Gauteng
-  postcode: '0028'
-  country: South Africa
 
 summary: A MSc level course introducing the Contingent Valuation Method
-abstract: ""
+abstract: "A series of videos ..."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-09-01T08:00:00Z"
-date_end: "2022-09-02T12:00:00Z"
+#date_end: "2022-09-02T12:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -66,7 +56,7 @@ projects: []
 math: true
 ---
 
-Here is a series of videos that introduce the contingent valuation method. 
+Here is a series of videos that introduce the contingent valuation methods. 
 
-[Introduction](https://youtu.be/BJ9IgksrNjk)
-[Surveys: Warm up and reminders sections](https://youtu.be/tqCYKjWGTD0)
++ [Introduction](https://youtu.be/BJ9IgksrNjk)
++ [Surveys: Warm up and reminders sections](https://youtu.be/tqCYKjWGTD0)
