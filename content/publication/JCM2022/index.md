@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Choice Modelling"
-publication_short: "JCM"
+publication_short: "Journal of Choice Modelling"
 
 abstract: "Sustainable intensification seeks to increase outputs from existing farmland in ways that have a lower environmental impact. An extensive literature has examined the determinants of farmers’ adoption of the different agro-ecological cropping systems needed to achieve these goals. However, the farmers' preferences for the attributes of these systems and the decision processes for choosing between available systems is still poorly understood. To fill this gap, this paper proposes a methodology that relies on a discrete choice experiment to analyse farmers’ preferences for cropping systems and estimate the heterogeneity of decision processes among farmers. We modelled three major types of decision processes potentially used by farmers to evaluate the systems that are not consistent with the standard utility maximization framework. These findings offer insights into the behavioural patterns of respondents and should help crop system promoters and developers to better understand how their proposed systems are likely to be evaluated by different types of farmers. "
 
