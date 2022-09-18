@@ -38,7 +38,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "Full CV"
-  url = "files/cv/CV Damien Jourdain 2022_05_01_english.pdf"
+  url = "files/cv/CV Damien Jourdain 2022_09_01_english.pdf"
   weight = 70
 
 
