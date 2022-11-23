@@ -4,8 +4,10 @@ summary: "Identifying South African farmers potential reactions to policy instru
 authors: [admin]
 tags: 
 - Climate Change Adaptation
-- Choice Experiment
-- Q-methodology
+- Best-Worst Scaling
+- Wicked problems
+- Farmer's preferences
+
 
 categories: []
 date: 2020-09-02T09:30:34+02:00
@@ -42,4 +44,9 @@ url_video: ""
 slides: ""
 ---
 
-Due to pandemic, activities will start in 2022.
+The design of policies in an increasingly complex environment is, however, extremely difficult, especially for wicked problems such as climate change. “Wicked problems” are defined as social or policy issues that are often complex, difficult to define, and difficult to solve. Ecosystems are complex, inherently unpredictable systems, and this makes it more difficult to predict the outcome of policy decisions. The involvement of stakeholders in decision-making processes has the potential to result in more realistic and more effective policies, and this is especially valuable where levels of complexity and uncertainty are high. The involvement of stakeholders is critically important in the design of solutions for wicked environmental problems. A good understanding of different stakeholder perspectives can reduce the wickedness of a problem. 
+
+In that respect, information about farmers' preferences for different policy options is vitally important in the policy design process to ensure that policies can be implemented and optimize compliance. In this study, we elicit farmers' preferences for public policies that would favour the adaptation of their farming systems based on policy directives (options) contained in the National Water Act.  
+
+As a collaboration with the University of Stellenbosch, we conducted 100 Best-Worst Scaling surveys designed to elicit farmers preferences among the different policy options.
+
