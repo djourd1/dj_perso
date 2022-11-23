@@ -6,6 +6,8 @@ authors:
 - admin
 - Stefano Farolfi
 - Marc Willinger
+- Amandine Belard
+- Mark Manyanga 
 
 tags: 
 - Experimental Economics
