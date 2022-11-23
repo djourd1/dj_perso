@@ -55,3 +55,4 @@ The central hypothesis of the *SoCapZ* project is that there are important two-w
 
 At the end of this one-year project, SoCapZ will provide a fully-tested methodology to measure social capital at farm and community levels based on a combination of surveys and lab-in-the-field incentivized games. We will be able to analyse the relationship between resilience/productivity and current social capital at the beginning of the RAIZ project. As a long-term impact of the SoCapZ project, we intend to use that methodology again after three years with the same communities. This will be permitted by the close interaction of the SoCapZ project with the RAIZ project. This re-use of the SoCapZ methodology will allow us to characterize the role of social capital in the theory of changes of an agricultural development project.
 
+This project was funded through Labex AGRO 2011-LABX-002, project n°2101-044 (under I-Site Muse framework) coordinated by Agropolis Fondation. 
