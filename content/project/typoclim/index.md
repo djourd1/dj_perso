@@ -32,7 +32,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "files/typoclimSAreport.pdf"
 url_slides: ""
 url_video: ""
 
@@ -49,4 +49,8 @@ The design of policies in an increasingly complex environment is, however, extre
 In that respect, information about farmers' preferences for different policy options is vitally important in the policy design process to ensure that policies can be implemented and optimize compliance. In this study, we elicit farmers' preferences for public policies that would favour the adaptation of their farming systems based on policy directives (options) contained in the National Water Act.  
 
 As a collaboration with the University of Stellenbosch, we conducted 100 Best-Worst Scaling surveys designed to elicit farmers preferences among the different policy options.
+
+Report of the activities are found in: 
+
+Mungatana E.D., Jooste A., Naudé W.H., Jourdain, D. (2022) Climate change and water use: Farmers’ preferences for policy options. Report of the South Africa case study for the project “Typology and assessment of policy instruments to promote agricultural adaptation to climate change” (TYPOCLIM). Stellenbosch University and BFAP, Stellenbosch, South Africa.
 
