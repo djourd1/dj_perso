@@ -22,10 +22,7 @@ publication: "Journal of Multi-Criteria Decision Analysis."
 publication_short: "J Multi-Crit Decis Anal."
 
 abstract: "In order to better design more sustainable farming systems, and prepare for the development of multi-criteria farm decision model, we investigate how farmers rank
-their main goals when making decisions. First, we identified the main goals used by farmers through in-depth interviews with randomly selected farmers in which we
-used small games to elicit the main goals they are using to make farm-level decisions. Then, we developed a best–worst scaling (BWS) experiment, in which farmers have
-to declare the “most” and the least “important” goals they use when making decisions. The experiment was conducted with 120 farmers. We first derive a ranking of the goals according to the population average, which showed the importance of rice self-sufficiency and transmission of farm capital. We then use a scale-adjusted latent class analysis. We identified four groups of homogenous preferences among farmers. The use of differentiated scale, a measure of choice inconsistencies, suggested different levels of certainty about the ranking, and the presence of more inconsistencies when asking the least important goal. While a large group focuses only on rice self-sufficiency, and farm transmission, we also identified a group of optimizers, and riskaverse farmers. Farmers of each group are likely to behave differently with regard to sustainable innovations. We also showed that some socio-economic variables describing the farms and the households influenced the probabilities for farmers to belong to one of the four classes. Overall, we showed that BWS scaling experiments
-provide a rich set of information about the diversity of rankings. It also provides the set of tools to evaluate the consistency and quality of respondents' choices."
+their main goals when making decisions. First, we identified the main goals used by farmers through in-depth interviews with randomly selected farmers in which we used small games to elicit the main goals they are using to make farm-level decisions. Then, we developed a best–worst scaling (BWS) experiment, in which farmers have to declare the “most” and the least “important” goals they use when making decisions. The experiment was conducted with 120 farmers. We first derive a ranking of the goals according to the population average, which showed the importance of rice self-sufficiency and transmission of farm capital. We then use a scale-adjusted latent class analysis. We identified four groups of homogenous preferences among farmers. The use of differentiated scale, a measure of choice inconsistencies, suggested different levels of certainty about the ranking, and the presence of more inconsistencies when asking the least important goal. While a large group focuses only on rice self-sufficiency, and farm transmission, we also identified a group of optimizers, and riskaverse farmers. Farmers of each group are likely to behave differently with regard to sustainable innovations. We also showed that some socio-economic variables describing the farms and the households influenced the probabilities for farmers to belong to one of the four classes. Overall, we showed that BWS scaling experiments provide a rich set of information about the diversity of rankings. It also provides the set of tools to evaluate the consistency and quality of respondents' choices."
 
 # Summary. An optional shortened abstract.
 summary: "We developed a best–worst scaling (BWS) experiment, in which farmers have to declare the “most” and the least “important” goals they use when making decisions. We first derive a ranking of the goals according to the population average, which showed the importance of rice self-sufficiency and transmission of farm capital. We then use a scale-adjusted latent class analysis. We identified four groups of homogenous preferences among farmers."
@@ -37,7 +34,7 @@ tags:
 - Choice Experiment
 - Latent Class Model
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
