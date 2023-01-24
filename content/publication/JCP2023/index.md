@@ -1,11 +1,11 @@
 ---
 title: "Ex-ante demand assessment and willingness to pay for human excreta derived co-compost: Empirical evidence from rural South Africa"
 authors:
-- Gwara, Simon
-- Wale, Edilegnaw
-- Lundhede, Thomas
+- Simon Gwara
+- Edilegnaw Wale
+- Thomas Lundhede
 - admin
-- Odindo, Alfred
+- Alfred Odindo
 
 date: "2023-01-20T00:00:00Z"
 doi: "10.1016/j.jclepro.2022.135570"
