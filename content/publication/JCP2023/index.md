@@ -33,7 +33,7 @@ tags:
 - South Africa
 - Choice Experiment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
