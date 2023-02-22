@@ -75,7 +75,6 @@ The videos are available at the following Youtube channel:
 
 Alternatively, you can click on the following videos:
 
-+ Introduction to limited dependent variables 
-{{< youtube vD3i_GD5Xoo >}}
++ [Introduction to limited dependent variables](https://www.youtube.com/watch?v=vD3i_GD5Xoo&list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F) 
 
-+ The Linear Probability Model
++ [The Linear Probability Model](https://www.youtube.com/watch?v=IH8f8NVP1z4&list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F&index=2)
