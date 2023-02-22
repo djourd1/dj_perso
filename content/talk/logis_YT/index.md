@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://ecoo.shinyapps.io/LogitPracticals/
+# url_slides: https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F
 
 url_code:
 url_pdf:
@@ -58,7 +58,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
