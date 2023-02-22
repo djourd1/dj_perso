@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-# url_slides: https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F
+url_slides: https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F
 
 url_code:
 url_pdf:
@@ -71,4 +71,9 @@ projects: []
 I developed a series of videos that I am using for teaching limited dependent variable regression models at the University of Pretoria.
 
 The videos are available at the following Youtube channel: 
-[LDV Channel](https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F)
+[LDV Channel: https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F](https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F)
+
+Alternatively, you can click on the following videos:
+
++ Introduction to limited dependent variables {{youtube vD3i_GD5Xoo&list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F}}
++ The Linear Probability Model

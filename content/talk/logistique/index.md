@@ -27,8 +27,8 @@ authors: [admin]
 tags: 
 - R 
 - logistic regression
-- logit
-- probit
+- logit model
+- probit model
 
 # Is this a featured talk? (true/false)
 featured: false
