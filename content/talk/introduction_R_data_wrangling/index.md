@@ -78,3 +78,6 @@ The course covers the following topics:
 3. Using dplyr package to select, order and re-arrange your data
 4. Reshape your data (wide and long formats)
 
+There is indeed a lot of materials available to self-learn R on the internet, but I collected what I considered the bare minimum to know about R to be able to start working with your data and start econometric modelling.
+
+Some sections have been translated in French, but the translation is still on-going for some chapters.
