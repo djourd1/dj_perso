@@ -68,4 +68,13 @@ slides: ""
 projects: []
 ---
 
-R course.
+An introductory course for using R given to UP Students at the beginning of the semester/
+The main purpose is that students have installed R, and are able to format the data so they can use different econometric methods such as linear and non-linear regressions, PCA, etc.
+
+The course covers the following topics:
+
+1. Installation of R and R Studio
+2. Knowledge of the basic R objects (vector, matrix, data.frame, functions)
+3. Using dplyr package to select, order and re-arrange your data
+4. Reshape your data (wide and long formats)
+
