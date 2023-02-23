@@ -73,8 +73,29 @@ I developed a series of videos that I am using for teaching limited dependent va
 The videos are available at the following Youtube channel: 
 [LDV Channel: https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F](https://www.youtube.com/playlist?list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F)
 
-Alternatively, you can click on the following videos:
+
+Alternatively, you can click on the following videos and quizzes:
+
+## Linear Probability Model
+
+### Videos
 
 + [Introduction to limited dependent variables](https://www.youtube.com/watch?v=vD3i_GD5Xoo&list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F) 
 
 + [The Linear Probability Model](https://www.youtube.com/watch?v=IH8f8NVP1z4&list=PLJsQKgR24nOL4CLYz1CZMaez53luwrU8F&index=2)
+
++ [Issues with the LPM model](https://www.youtube.com/watch?v=fHuphTgW9hg)
+
+### Quiz
+
++ [LPM Quiz](https://djourd1.github.io/slideReveal/quiz_lpm.html)
+
+## Logit and Probit Models
+
+[Logit and probit: Formulation of the models](https://www.youtube.com/watch?v=E4KPSCt6X4o)
+
+[Logit model: interpretation of the coefficients](https://www.youtube.com/watch?v=LV5IjGyPveE)
+
+[Logit and Probit: Latent variable formulation](https://www.youtube.com/watch?v=LE7cfXGb-xI)
+
+## Tobit model
