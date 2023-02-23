@@ -52,8 +52,8 @@ url_video: ''
 image:
   placement: 1
   caption: 'Elsevier'
-  focal_point: "Center"
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
