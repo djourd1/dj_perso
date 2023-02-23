@@ -51,7 +51,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 1
-  caption: 'Elsevier'
+  caption: ''
   focal_point: "TopLeft"
   preview_only: false
 
