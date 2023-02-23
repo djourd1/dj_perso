@@ -92,10 +92,10 @@ Alternatively, you can click on the following videos and quizzes:
 
 ## Logit and Probit Models
 
-[Logit and probit: Formulation of the models](https://www.youtube.com/watch?v=E4KPSCt6X4o)
++ [Logit and probit: Formulation of the models](https://www.youtube.com/watch?v=E4KPSCt6X4o)
 
-[Logit model: interpretation of the coefficients](https://www.youtube.com/watch?v=LV5IjGyPveE)
++ [Logit model: interpretation of the coefficients](https://www.youtube.com/watch?v=LV5IjGyPveE)
 
-[Logit and Probit: Latent variable formulation](https://www.youtube.com/watch?v=LE7cfXGb-xI)
++ [Logit and Probit: Latent variable formulation](https://www.youtube.com/watch?v=LE7cfXGb-xI)
 
 ## Tobit model
