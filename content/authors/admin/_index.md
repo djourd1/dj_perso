@@ -86,7 +86,7 @@ user_groups:
 
 Dr. Damien Jourdain is working with the UMR [Water Management, Actors, Territories (G-EAU)](https://www.g-eau.fr/index.php/en/) within [Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)](https://www.cirad.fr/en/home-page). Within G-EAU, he is an active member of the [Practices, Social Representations and Behaviours within socio-hydrosystems (PRECOS)](https://siteprecos.herokuapp.com/en/) team. 
 
-He is currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP). He is also the animator for CIRAD of a network on Public policies and Governance in Africa.
+He is currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP). 
 
 His research program focuses on:
 
